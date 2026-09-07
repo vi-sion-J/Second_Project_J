@@ -1,0 +1,2 @@
+using MLP layer as FFN
+Pretrained weights found at models/dinov2_vitl14_pretrain.pth and loaded with msg: <All keys matched successfully>
